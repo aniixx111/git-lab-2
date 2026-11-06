@@ -5,3 +5,5 @@
 Описание: Комплексная лабораторная работа по Git.
 
 Draft documentation
+
+Incorrect project description
